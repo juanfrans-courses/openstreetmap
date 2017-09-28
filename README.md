@@ -2,6 +2,7 @@
 Here are some notes on how to contribute to OpenStreetMap using the [OSM Task Manager](http://tasks.hotosm.org/about).
 
 ### Notes
+* More instructions can be found at [learnOSM](http://learnosm.org/en/coordination/humanitarian/)
 * Make sure you have an OpenStreetMap account.
 * In the [OSM Tasking Manager](http://tasks.hotosm.org/) choose the task you want to contribute to.
 * Choose the square you want to map.
@@ -9,6 +10,6 @@ Here are some notes on how to contribute to OpenStreetMap using the [OSM Task Ma
 * Choose your editor:
   * iD
   * JOSM:
-    * Download
+    * [Download](https://josm.openstreetmap.de/)
     * Enable remote control (preferences)
 * You can change background imagery to get a different satellite image. However, you might need to re-align the image.
